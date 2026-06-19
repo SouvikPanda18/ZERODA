@@ -9,7 +9,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/*" element={<Home />} />
+        <Route path="https://zeroda-ts58.onrender.com" element={<Home />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
